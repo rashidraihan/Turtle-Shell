@@ -1,8 +1,9 @@
+<h1 align="center">🐢 Turtle Shell</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/language-python-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
 </p>
 
-<h1 align="center">🐢 Turtle Shell</h1>
+---
 
 <p align="center">
   A lightweight, Python-based shell that brings Unix-style commands and system-level control to your fingertips.
