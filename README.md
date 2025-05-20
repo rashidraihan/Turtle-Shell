@@ -91,16 +91,20 @@ Turtle Shell offers a clean set of commands that mirror familiar Unix operations
 
 Once this is done, you'll see a vibrant greeting each time Turtle Shell starts!
 
-❗ Important Notes
-Turtle Shell is a learning tool for understanding Python’s interaction with the operating system.
-- Avoid using it as a full system shell replacement.
-- It does not support piping or redirection (e.g., `|`, `>`).
+## ❗ Important Notes
 
-🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+Turtle Shell is designed as a **learning tool** to explore Python’s interaction with the operating system.
 
-   
+- ⚠️ Do **not** use it as a full system shell replacement.
+- 🚫 Currently, it does **not** support piping (`|`) or redirection (`>`).
 
-   
+---
 
-5. 
+## 🤝 Contributing
+
+Pull requests are welcome!
+
+For major changes, please open an issue first to discuss what you'd like to propose or improve.
+
+Let's build and learn together. 🐢
+
