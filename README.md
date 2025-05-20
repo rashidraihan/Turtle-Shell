@@ -45,7 +45,7 @@ Turtle Shell offers a clean set of commands that mirror familiar Unix operations
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/turtle-shell.git
+   git clone https://github.com/rashidraihan/turtle-shell.git 
    cd turtle-shell
 
 2. Run the Shell
